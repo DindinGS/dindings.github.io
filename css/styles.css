@@ -1,0 +1,20 @@
+body {
+	background: #333;
+	color: white;
+	font-family: "Verdana";
+}
+
+#header {
+	text-align: center;
+	font-size: 50px;
+	font-kerning: 5;
+}
+
+#canvasdiv {
+	text-align: center;
+}
+
+#time {
+	text-align: center;
+	font-size: 100px;
+}
