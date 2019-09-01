@@ -4,7 +4,7 @@ Inspired by YT TwoSet Violin Channel
 
 Link: https://dindings.github.io
 
-There's no available 40-hour / 20 hour (AM - PM
+There's no available 40-hour / 20 hour (AM - PM)
 analog clock available anywhere
 so I made one...
 
