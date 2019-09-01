@@ -1,7 +1,8 @@
-# dindings.github.io
-LingLing's 40 hours clock
+# LingLing's 40 hours clock
+
 Inspired by YT TwoSet Violin Channel
-Link: dindings.github.io
+
+Link: https://dindings.github.io
 
 There's no available 40-hour / 20 hour (AM - PM
 analog clock available anywhere
